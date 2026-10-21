@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: calculator
-          image: k4kaif/calculator:v1
+          image: k4kaif/calculator:059fc31e1b06404b1079b69bc261b48b6b4251bb
           ports:
             - containerPort: 80
