@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/K4Kaif/calculator-app.git
     targetRevision: main
-    path: k8s
+    path: helm/calculator
   destination:
     server: https://kubernetes.default.svc
     namespace: default
