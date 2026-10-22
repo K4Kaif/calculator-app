@@ -1,0 +1,8 @@
+replicaCount: 2
+
+image:
+  repository: k4kaif/calculator
+  tag: v1
+
+service:
+  nodePort: 30000
