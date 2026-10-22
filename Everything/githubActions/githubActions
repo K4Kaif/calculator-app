@@ -1,0 +1,10 @@
+what is githubActions?
+platform to automate developers workflow, basically it is a CI/CD platform.
+
+
+GitHub Actions aur Jenkins automation tools hain jo code changes ke baad build, testing aur deployment jaise tasks automatically perform kar 
+sakte hain. GitHub Actions GitHub ke saath closely integrated hai,jabki Jenkins ek flexible automation server hai jise tum apni VM par self-host 
+kar sakte ho.Hamare project mein pipeline automatically code checkout karegi, 
+tests run karegi aur Docker image build karegi. Baad mein isi pipeline ko image registry aur Kubernetes deployment ke saath integrate karenge.
+
+Real-world example: Har code update ke baad developer ko manually testing aur image building nahi karni padti.
