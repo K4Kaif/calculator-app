@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: k4kaif/calculator
-  tag: v1
+  tag: 65acf33c694731312156292ffd3846ebfb06d8af
 
 service:
   nodePort: 30000
