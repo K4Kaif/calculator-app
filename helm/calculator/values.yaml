@@ -6,3 +6,5 @@ image:
 
 service:
   nodePort: 30000
+ingress:
+  host: calculator.local
